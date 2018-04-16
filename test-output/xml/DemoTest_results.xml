@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="接口测试"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.576">
+  <properties />
+  
+  
+            <testcase name="testXML" time="0.117" classname="DemoTest" />
+                <testcase name="testJson" time="0.459" classname="DemoTest" />
+      
+</testsuite>
